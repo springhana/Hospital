@@ -1,0 +1,155 @@
+.user_Post {
+  width: 700px;
+  height: 200px;
+  border: 2px solid #92cbdc;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user_input {
+  position: relative;
+  top: 15px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.user_input input {
+  width: 400px;
+  height: 50px;
+  background: #ffffff;
+  text-align: center;
+  border: none;
+}
+.user_input input:hover {
+  border: 2px solid #92cbdc;
+}
+.user_input span {
+  position: relative;
+  left: -20px;
+  width: 150px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #95a7af;
+}
+.user_Login_btn {
+  position: relative;
+  width: 100%;
+  height: 70px;
+  background: #fbbc19;
+  border: 2px solid #83620f;
+  top: 35px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.SignPatient {
+  position: relative;
+  width: 100%;
+  height: 30px;
+  background: #fbbc19;
+  border: 2px solid #83620f;
+  top: 35px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* userSign */
+.userSign {
+  width: 800px;
+  height: 250px;
+  border: 2px solid #92cbdc;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.userSign_input {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.userSign_input input {
+  width: 400px;
+  height: 50px;
+  background: #ffffff;
+  text-align: center;
+  border: none;
+}
+.userSign_input input:hover {
+  border: 2px solid #92cbdc;
+}
+.userSign_input span {
+  position: relative;
+  left: -20px;
+  width: 150px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #95a7af;
+}
+.user_image {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  left: 15px;
+}
+.image_btn input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* select */
+.doc_nur_select {
+  width: 100%;
+  height: 80px;
+  display: flex;
+}
+.doc_nur {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #92cbdc;
+  border-top: none;
+  background: #92cbdc;
+}
+.doc_nur span {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.doc_nur_option {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.init {
+  position: relative;
+  width: 100%;
+  height: 40px;
+  background: #fbbc19;
+  border: 2px solid #83620f;
+  top: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

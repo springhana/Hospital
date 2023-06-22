@@ -1,0 +1,69 @@
+.doctor_Post {
+  width: 700px;
+  height: 200px;
+  border: 2px solid #92cbdc;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.doctor_input {
+  position: relative;
+  top: 15px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.doctor_input input {
+  width: 400px;
+  height: 50px;
+  background: #ffffff;
+  text-align: center;
+  border: none;
+}
+.doctor_input input:hover {
+  border: 2px solid #92cbdc;
+}
+.doctor_input span {
+  position: relative;
+  left: -20px;
+  width: 150px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #95a7af;
+}
+
+.first {
+  width: 700px;
+  height: 150px;
+  border: 2px solid #92cbdc;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #95a7af;
+  cursor: pointer;
+  transition: 0.2s ease-in-out all;
+}
+.first:hover {
+  color: black;
+  scale: 1.2;
+}
+
+.init {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  background: #fbbc19;
+  border: 2px solid #83620f;
+  top: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+}

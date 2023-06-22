@@ -1,0 +1,118 @@
+.nurse_PostInfo {
+  position: relative;
+  top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nurse_Post {
+  width: 700px;
+  height: 200px;
+  border: 2px solid #92cbdc;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nurse_input {
+  position: relative;
+  top: 15px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nurse_input input {
+  width: 400px;
+  height: 50px;
+  background: #ffffff;
+  text-align: center;
+  border: none;
+}
+.nurse_input input:hover {
+  border: 2px solid #92cbdc;
+}
+.nurse_input span {
+  position: relative;
+  left: -20px;
+  width: 170px;
+  font-size: 25px;
+  font-weight: bold;
+  color: #95a7af;
+}
+.nurse_btn {
+  position: relative;
+  width: 100%;
+  height: 70px;
+  background: #fbbc19;
+  border: 2px solid #83620f;
+  top: 35px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.nur_chr_Info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* doctor */
+.nurse_Info {
+  position: relative;
+  width: 880px;
+  height: 100px;
+  background: #ffffff;
+  border: 2px solid #92cbdc;
+  box-shadow: 1px 1px 1px #92cbdc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nurse {
+  width: 100%;
+  color: #95a7af;
+  font-weight: bold;
+  text-align: center;
+}
+.nurse span {
+  font-size: 18px;
+}
+/* === doctor === */
+
+/* diagnosis */
+.chart_info {
+  position: relative;
+  width: 880px;
+  height: 250px;
+  background: #ffffff;
+  border: 2px solid #92cbdc;
+  box-shadow: 1px 1px 1px #92cbdc;
+  overflow: auto;
+}
+.chart_inner {
+  margin: 10px;
+}
+.chart {
+  width: 100%;
+  color: #95a7af;
+  font-weight: bold;
+  text-align: center;
+}
+.chart span {
+  font-size: 20px;
+}
+/* === diagnosis === */
+
+.init {
+  position: relative;
+  width: 95%;
+  height: 40px;
+  background: #fbbc19;
+  border: 2px solid #83620f;
+  top: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
