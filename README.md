@@ -1,46 +1,73 @@
-# Getting Started with Create React App
+# 병원 진료 신청 서버 
+※ Java - Spring Boot 사용
+<a href="">Hospital_Server</a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 메인 화면
 
-## Available Scripts
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/d715c018-4328-49b6-9bde-22bc86dcdb85)
 
-In the project directory, you can run:
+<br>
+<hr>
 
-### `npm start`
+# 로그인
+※ 회원 정보가 있다면 로그인, 없다면 회원가입(진료 신청)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/013414c4-6496-461f-b261-94cd95f21931)
+<br>
+<hr>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# 진료 신청
 
-### `npm test`
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/60d323f7-9820-4cfe-93f4-daa19173927b)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+※ 증상 내용과 처방 내용 작성
 
-### `npm run build`
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/61c135bb-90c8-4da5-80f3-4773cf59433a)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+※ 진료 신청 후
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/22dac193-3fe3-4449-a1f8-931c031d564f)
+<br>
+<hr>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 자기 정보 보기
 
-### `npm run eject`
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/56d5363b-8317-486e-a253-f6fe4f5dbbaf)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+※ 자기 정보 입력 후
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/c8a5e387-0bcb-4e73-93b2-ef45d954c6da)
+<br>
+<hr>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# 의사 정보
+※ 의사 데이터
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/b88c092b-3ec4-4c0e-b542-b2141584bc6d)
 
-## Learn More
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/ff81e862-042b-4e30-94ae-de948ac671f9)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+※ 의사 로그인 후
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/b39db06b-3edb-4936-ae49-d1408783e924)
+
+※ 의사가 담당하는 진료 보기
+
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/6586ffb0-a7e3-4727-a400-20400136d605)
+<br>
+<hr>
+
+# 간호사 정보
+※ 간호사 데이터
+
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/e731f3ca-b531-4423-b2df-5681b8931754)
+
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/0983fe96-5abd-4eb8-85ef-818720276f25)
+
+※ 간호사 로그인 후
+
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/d598293f-7bf3-471a-aea2-7a659dedae15)
+
+※ 간호사가 담당하는 진료(차트) 보기
+
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/5b358407-87d8-4860-88b1-ba308f4b6ff3)
