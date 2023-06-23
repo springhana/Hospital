@@ -1,5 +1,5 @@
 # 병원 진료 신청 서버 
-※ Java - Spring Boot 사용<br>
+※ Server Rest API 사용 - Java - Spring Boot<br>
 <a href="https://github.com/springhana/Hospital_Server">Hospital_Server</a>
 
 # 메인 화면
