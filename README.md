@@ -12,6 +12,8 @@
 # 로그인
 ※ 회원 정보가 있다면 로그인, 없다면 회원가입(진료 신청)
 
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/e7d56079-25bc-4695-920a-783573aff193)
+
 ![image](https://github.com/springhana/Hospital_Web/assets/97121074/013414c4-6496-461f-b261-94cd95f21931)
 <br>
 <hr>
@@ -53,6 +55,8 @@
 
 ※ 의사가 담당하는 진료 보기
 
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/0a6927a0-5a65-4094-8cb6-1da762784f5e)
+
 ![image](https://github.com/springhana/Hospital_Web/assets/97121074/6586ffb0-a7e3-4727-a400-20400136d605)
 <br>
 <hr>
@@ -69,5 +73,7 @@
 ![image](https://github.com/springhana/Hospital_Web/assets/97121074/d598293f-7bf3-471a-aea2-7a659dedae15)
 
 ※ 간호사가 담당하는 진료(차트) 보기
+
+![image](https://github.com/springhana/Hospital_Web/assets/97121074/155ef7d1-7dd3-440c-acfc-181160361a21)
 
 ![image](https://github.com/springhana/Hospital_Web/assets/97121074/5b358407-87d8-4860-88b1-ba308f4b6ff3)
