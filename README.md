@@ -1,8 +1,8 @@
 # 병원 진료 신청 서버 
 ※ Server Rest API 사용 - Java - Spring Boot<br>
 ※ 사용한 DB - MariaDB
-<a href="https://github.com/springhana/Hospital_Server">Hospital_Server</a>
-
+<a href="https://github.com/springhana/Hospital_Server">Hospital_Server</a><br>
+※<a href="https://github.com/springhana/Hospital_App">App으로도 보기</a>
 # 메인 화면
 
 ![image](https://github.com/springhana/Hospital_Web/assets/97121074/d715c018-4328-49b6-9bde-22bc86dcdb85)
